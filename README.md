@@ -57,23 +57,3 @@ g++ FixSpell.cpp -o FixSpell
 A plain text file containing 500+ common English words — one word per line.
 You can expand this file with a larger dictionary or domain-specific vocabulary.
 
-💡 Future Improvements
-📦 GUI version using Qt or Tkinter (via Python bridge)
-
-🗣️ Speech-to-text integration
-
-✍️ Typing auto-correct (real-time)
-
-🌐 Web-based version using Flask/React
-
-📈 Word frequency-based ranking
-
-👩‍💻 Built With
-💻 Language: C++
-
-📚 Data Structure: Trie
-
-📂 File Handling: fstream
-
-🧠 Algorithms: Levenshtein Distance
-

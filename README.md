@@ -1,4 +1,4 @@
-# FixSpell
+
 # FixSpell 🔍✨  
 A fast and efficient **console-based spell checker** built in **C++**, using the **Trie data structure** for quick prefix lookups and auto-suggestions. Ideal for beginners and intermediate learners looking to understand how spell correction, data structures, and file handling work together in real-world applications.
 
